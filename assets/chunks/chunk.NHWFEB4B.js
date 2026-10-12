@@ -1,0 +1,1 @@
+function o(r,e){return e.split(".").reduce((t,n)=>t?.[n],r)}function c(r,e,t){let n=o(r,e);return n===void 0?e:typeof n!="string"||!t?n:n.replace(/\{(\w+)\}/g,(i,u)=>u in t?String(t[u]):i)}var f=r=>(e,t)=>c(r,e,t);export{o as a,c as b,f as c};
