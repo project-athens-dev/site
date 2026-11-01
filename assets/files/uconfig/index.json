@@ -1,0 +1,102 @@
+[
+  {
+    "file": "CMCC RAX3000M.bin",
+    "name": "CMCC RAX3000M"
+  },
+  {
+    "file": "CMCC RAX3000ME.bin",
+    "name": "CMCC RAX3000ME"
+  },
+  {
+    "file": "CMCC XR30.bin",
+    "name": "CMCC XR30"
+  },
+  {
+    "file": "Cudy TR3000.bin",
+    "name": "Cudy TR3000"
+  },
+  {
+    "file": "Cudy WBR3000UAX.bin",
+    "name": "Cudy WBR3000UAX"
+  },
+  {
+    "file": "Cudy WR3000P.bin",
+    "name": "Cudy WR3000P"
+  },
+  {
+    "file": "Linksys EA7xxx.bin",
+    "name": "Linksys EA7xxx"
+  },
+  {
+    "file": "MTS WG430223.bin",
+    "name": "MTS WG430223"
+  },
+  {
+    "file": "Netis N6v1.bin",
+    "name": "Netis N6v1"
+  },
+  {
+    "file": "Netis NX31.bin",
+    "name": "Netis NX31"
+  },
+  {
+    "file": "Netis NX32U.bin",
+    "name": "Netis NX32U"
+  },
+  {
+    "file": "Redmi AX6S (Xiaomi AX3200).bin",
+    "name": "Redmi AX6S (Xiaomi AX3200)"
+  },
+  {
+    "file": "SmartBox Flash.bin",
+    "name": "SmartBox Flash"
+  },
+  {
+    "file": "SmartBox Giga.bin",
+    "name": "SmartBox Giga"
+  },
+  {
+    "file": "SmartBox Pro.bin",
+    "name": "SmartBox Pro"
+  },
+  {
+    "file": "SmartBox Turbo.bin",
+    "name": "SmartBox Turbo"
+  },
+  {
+    "file": "SmartBox Turbo Plus.bin",
+    "name": "SmartBox Turbo Plus"
+  },
+  {
+    "file": "TP-Link EC330.bin",
+    "name": "TP-Link EC330"
+  },
+  {
+    "file": "Vertell Street M2.bin",
+    "name": "Vertell Street M2"
+  },
+  {
+    "file": "WiFire S1500.bin",
+    "name": "WiFire S1500"
+  },
+  {
+    "file": "Xiaomi 4.bin",
+    "name": "Xiaomi 4"
+  },
+  {
+    "file": "Xiaomi AX3000T.bin",
+    "name": "Xiaomi AX3000T"
+  },
+  {
+    "file": "Xiaomi R3G.bin",
+    "name": "Xiaomi R3G"
+  },
+  {
+    "file": "Xiaomi R3P.bin",
+    "name": "Xiaomi R3P"
+  },
+  {
+    "file": "Xiaomi Redmi AC2100.bin",
+    "name": "Xiaomi Redmi AC2100"
+  }
+]
